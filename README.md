@@ -15,7 +15,7 @@
   [Why has bisexual identity doubled in one European city – and what does it tell us about global trends? (*The Conversation*)](https://theconversation.com/why-has-bisexual-identity-doubled-in-one-european-city-and-what-does-it-tell-us-about-global-trends-248200)
 
 - 🖼️ **Google Trends Visualizations**  
-  [Google Search Trends on LGBTQ](https://github.com/willizhang/Google-Search-Trends-LGBTQ)
+  [Google search trends on LGBTQ](https://github.com/willizhang/Google-Search-Trends-LGBTQ)
 
 You are welcome to share or reuse these materials where relevant.
 
