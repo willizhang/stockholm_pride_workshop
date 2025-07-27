@@ -25,7 +25,8 @@ We would love to hear your [feedback](https://forms.cloud.microsoft/Pages/Respon
 
 ### 📬 Contact
 
-If you have any questions, you are very welcome to contact us.  
+If you have any questions, suggestions for research topics, or ideas for future presentations, you are warmly welcome to reach out to us. Your input is very valuable and helps shape our work!
+
 [Willi Zhang](https://ki.se/en/people/willi-zhang), willi.zhang@ki.se  
 [Kyriaki Kosidou](https://ki.se/en/people/kyriaki-kosidou), kyriaki.kosidou@regionstockholm.se  
 [Anna Mia Ekström](https://ki.se/en/people/anna-mia-ekstrom), anna.mia.ekstrom@ki.se
